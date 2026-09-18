@@ -1,1 +1,13 @@
-Hello World
+Name here 
+
+Basic Addition
+1 + 1 = 
+
+2 + 2 = 
+
+3 + 5 = 
+
+
+Add up all of those numbers:
+
+
